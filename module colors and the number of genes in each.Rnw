@@ -1,0 +1,17 @@
+\documentclass{article}
+
+\begin{Module colors and number of genes in each}
+\SweaveOpts{concordance=TRUE}
+
+black          blue         brown          cyan     darkgreen      darkgrey    darkorange       darkred darkturquoise         green 
+
+ 398           1107          998            176        86            58            42            88            59               594 
+  
+greenyellow          grey        grey60     lightcyan    lightgreen   lightyellow       magenta     midnightblue        orange          pink 
+    234               29           141          153        120            94              288           166               55             352 
+       
+purple           red     royalblue        salmon           tan     turquoise         white        yellow 
+ 263             464        94             190             231       1538             31           605 
+ 
+
+\end{document}

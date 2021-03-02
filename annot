@@ -1,0 +1,36 @@
+#!/usr/bin/bash
+
+library(magrittr)
+
+read.counts <- read.table('/home/user/Desktop/NA.txt', row.names=1, header=TRUE)
+
+row.names(read.counts) <- read.counts$Geneid
+
+read.counts <- read.counts[-c(1:5),]
+
+head (read.counts)
+
+orig_names <- names(read.counts)
+
+head (read.counts)
+
+names(read.counts) < - c("UV_1","UV_2","UV_3","UV_4","UV_5","VNP_1","VNP_2","VNP_3","VNP_4","VNP_5","VNP_6","VNP_7","VNP_8","VNP_9","VNP_10","VNP_11","VNP_12","VNP_13","VNP_14","VNP_15","VNP_16","VNP_17","VNP_18","VNP_19","VNP_20","VNP_21","VNP_22","VNP_23","VNP_24","VP_1","VNP_25","VP_2","VNP_26","VNP_27","VP_3","VP_4","VP_5","VP_6","VP_7","VP_8","VP_9","VP_10","VP_11","VP_12","VP_13")
+
+
+sample_info <- data.frame(condition = gsub("_[0-44]+" ,"", names(read.counts)), row.names = names(read.counts))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+"Run,As",say ,,,,,,
+"Type,A","vgSpotLen,Bases,BioP",,"roject,Bio","Sample,Byte","s,Cell_typ","e,Center ",
+"Name,C","onsent,DATASTORE fil",,"etype,DATA",STORE provi,"der,DATAST",ORE ,
+region,",Experiment,GEO_Acce",,ssion ,,,,
+"(exp),","Individual,Instrumen",,"t,LibraryL","ayout,Libra",rySelectio,"n,LibraryS","ource,O"
+rganis,"m,Platform,ReleaseDa",,"te,Sample ",,,,
+"Name,s",erologic_response_st,,"atus,sourc","e_name,SRA ",,,
+"Study,","Time,vaccine_adminis",,"tration,va",ccine,,,
+SRR213,"1558,RNA-",,,,,,
+"Seq,73",",329920069,PRJNA2911",,"93,SAMN039","40506,20211","7171,circu",lating ,
+lympho,"cytes,GEO,","public,""fa","stq,sra"",""","gs,ncbi,s3""",",""gs.US,nc","bi.public,",s3.us-
+east-1,""",SRX11221","20,GSM1833","946,Animal 75,Illumin",,a Genome A,nalyzer ,
+"II,SIN","GLE,cDNA,TRANSCRIPTO",,"MIC,Bos taurus,ILLUMINA,2016-09-",,,,
+16T00:,"00:00Z,GSM1833946,un",,"vaccinated,MP-12 Vaccinated Cat",,,"tle,SRP061","686,Day "
+"-7,sub","cutaneous,""Rift Vall",,"ey fever, MP-12 vaccine""",,,,
+SRR213,"1559,RNA-",,,,,,
+"Seq,73",",285832741,PRJNA2911",,"93,SAMN03940507,173518369,circu",,,lating ,
+lympho,"cytes,GEO,","public,""sr","a,fastq"",""gs,ncbi,s3"",""gs.US,nc",,,"bi.public,",s3.us-
+east-1,""",SRX11221","21,GSM1833","947,Animal 76,Illumina Genome A",,,nalyzer ,
+"II,SIN","GLE,cDNA,TRANSCRIPTO",,"MIC,Bos taurus,ILLUMINA,2016-09-",,,,
+16T00:,"00:00Z,GSM1833947,un",,"vaccinated,MP-12 Vaccinated Cat",,,"tle,SRP061","686,Day "
+"-7,sub","cutaneous,""Rift Vall",,"ey fever, MP-12 vaccine""",,,,
+SRR213,"1560,RNA-",,,,,,
+"Seq,73",",288921152,PRJNA2911",,"93,SAMN03940508,177121506,circu",,,lating ,
+lympho,"cytes,GEO,","public,""fa","stq,sra"",""gs,ncbi,s3"",""gs.US,nc",,,"bi.public,",s3.us-
+east-1,""",SRX11221","22,GSM1833","948,Animal 74,Illumina Genome A",,,nalyzer ,
+"II,SIN","GLE,cDNA,TRANSCRIPTO",,"MIC,Bos taurus,ILLUMINA,2016-09-",,,,
+16T00:,"00:00Z,GSM1833948,un",,"vaccinated,MP-12 Vaccinated Cat",,,"tle,SRP061","686,Day "
+"0,subc","utaneous,""Rift Valle",,"y fever, MP-12 vaccine""",,,,
+SRR213,"1561,RNA-",,,,,,
+"Seq,73",",252602995,PRJNA2911",,"93,SAMN03940509,157919321,circu",,,lating ,
+lympho,"cytes,GEO,","public,""fa","stq,sra"",""gs,ncbi,s3"",""gs.US,nc",,,"bi.public,",s3.us-
+east-1,""",SRX11221","23,GSM1833","949,Animal 75,Illumina Genome A",,,nalyzer ,
+"II,SIN","GLE,cDNA,TRANSCRIPTO",,"MIC,Bos taurus,ILLUMINA,2016-09-",,,,
+16T00:,"00:00Z,GSM1833949,un",,"vaccinated,MP-12 Vaccinated Cat",,,"tle,SRP061","686,Day "
+"0,subc","utaneous,""Rift Valle",,"y fever, MP-12 vaccine""",,,,
+SRR213,"1562,RNA-",,,,,,
+"Seq,73",",397689911,PRJNA2911",,"93,SAMN03940510,241693588,circu",,,lating ,
+lympho,"cytes,GEO,","public,""fa","stq,sra"",""gs,ncbi,s3"",""gs.US,nc",,,"bi.public,",s3.us-
+east-1,""",SRX11221","24,GSM1833","950,Animal 76,Illumina Genome A",,,nalyzer ,
+"II,SIN","GLE,cDNA,TRANSCRIPTO",,"MIC,Bos taurus,ILLUMINA,2016-09-",,,,
+16T00:,"00:00Z,GSM1833950,un",,"vaccinated,MP-12 Vaccinated Cat",,,"tle,SRP061","686,Day "
+"0,subc","utaneous,""Rift Valle",,"y fever, MP-12 vaccine""",,,,
+SRR213,"1563,RNA-",,,,,,
+"Seq,73",",367539159,PRJNA2911",,"93,SAMN03940511,220443189,circu",,,lating ,
+lympho,"cytes,GEO,","public,""fa","stq,sra"",""gs,ncbi,s3"",""gs.US,nc",,,"bi.public,",s3.us-
+east-1,""",SRX11221","25,GSM1833","951,Animal 86,Illumina Genome A",,,nalyzer ,
+"II,SIN","GLE,cDNA,TRANSCRIPTO",,"MIC,Bos taurus,ILLUMINA,2016-09-",,,,
+16T00:,"00:00Z,GSM1833951,""v",,"accinated, not protected"",MP-12 Vaccinated ",,,,
+Cattle,",SRP061686,Day 0,int",,"ramuscular,""Rift Valley fever, MP-12 vaccine""",,,,
+SRR213,"1564,RNA-",,,,,,
+"Seq,73",",364457902,PRJNA2911",,"93,SAMN03940512,222847539,circu",,,lating ,
+lympho,"cytes,GEO,","public,""fa","stq,sra"",""gs,ncbi,s3"",""gs.US,nc",,,"bi.public,s3.us-",
+east-1,""",SRX11221","26,GSM1833","952,Animal 88,Illumina Genome A",,,nalyzer ,
